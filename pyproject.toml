@@ -20,7 +20,6 @@ pre-commit = "*"
 
 [tool.poetry.group.docs.dependencies]
 pydocstyle = "*"
-#mkdocs , sphinx
 
 [tool.poetry.group.test.dependencies]
 pytest = "*"
